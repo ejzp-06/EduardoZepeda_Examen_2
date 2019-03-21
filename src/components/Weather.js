@@ -8,7 +8,8 @@ class Weather extends Component{
         }
     }
 
-    printDetails = () =>{
+      printDetails = () =>{
+        //aqui deberia acceder a los parametros, y llamar a la action para dispararla e imprimir max y min
     }
 }
 
